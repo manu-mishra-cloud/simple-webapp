@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Manu test
+          Learn React Manu test fdfdfdfdfdfdfdfd
         </a>
       </header>
     </div>
