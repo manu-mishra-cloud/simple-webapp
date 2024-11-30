@@ -1,7 +1,5 @@
 import React from "react";
 import './works.css';
-import { Link } from 'react-scroll';
-import bg from '../../assets/man.png'
 import PortfolioImg from '../../assets/portfolio.jpg'
 
 const Works = () => {
