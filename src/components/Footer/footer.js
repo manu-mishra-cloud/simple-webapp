@@ -1,7 +1,7 @@
 import React from "react";
 import './footer.css';
 
-// import LinkdinLogo from '../../assets/linkdin.png'
+
 
 
 const Footer = () => {
