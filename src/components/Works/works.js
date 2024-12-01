@@ -1,8 +1,11 @@
 import React from "react";
 import './works.css';
-import PortfolioImg from '../../assets/portfolio.jpg'
 import PortfolioImg1 from '../../assets/port1.gif'
 import PortfolioImg2 from '../../assets/port2.gif'
+import PortfolioImg3 from '../../assets/Azure1.jpg'
+import PortfolioImg4 from '../../assets/awss3.png'
+import PortfolioImg5 from '../../assets/azureintra2.png'
+import PortfolioImg6 from '../../assets/django2.png'
 
 const Works = () => {
     return (
@@ -12,10 +15,10 @@ const Works = () => {
             <div className="worksImgs">
                 <img src={PortfolioImg1} alt="" className="worksImg" />
                 <img src={PortfolioImg2} alt="" className="worksImg" />
-                <img src={PortfolioImg1} alt="" className="worksImg" />
-                <img src={PortfolioImg1} alt="" className="worksImg" />
-                <img src={PortfolioImg1} alt="" className="worksImg" />
-                <img src={PortfolioImg1} alt="" className="worksImg" />
+                <img src={PortfolioImg3} alt="" className="worksImg" />
+                <img src={PortfolioImg4} alt="" className="worksImg" />
+                <img src={PortfolioImg5} alt="" className="worksImg" />
+                <img src={PortfolioImg6} alt="" className="worksImg" />
             
             </div>
             <button className="workBtn">See More</button>
